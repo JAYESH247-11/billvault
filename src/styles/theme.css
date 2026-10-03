@@ -1,0 +1,13 @@
+:root {
+  --color-background: #f3f6f8;
+  --color-dark: #0f1626;
+  --color-primary-text: #14213d;
+  --color-muted-text: #4b5870;
+  --color-accent-red: #9b1c2e;
+  --color-dark-accent: #e0788a;
+  --color-border: #d5dce5;
+  --color-dark-border: #2a3550;
+  --color-surface: #ffffff;
+  --color-dark-surface: #17203a;
+  --color-brand-blue: #2563eb;
+}
